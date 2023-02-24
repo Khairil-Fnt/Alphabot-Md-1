@@ -61,7 +61,7 @@ global.packname = '© Bebanbot愛' //sticker wm ubah
 global.author = 'by Vincenzoo' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
-global.typemenu = 'Gif' //
+global.typemenu = 'document' //
 //type menu for downloadmenu, animemenu, etc
 global.typemenu2 = 'templateImage' //
 global.multiplier = 69
