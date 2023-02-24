@@ -25,12 +25,12 @@ global.sewabotnya = `
 // setting 
 global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
-global.antidelete = true // anti delete
+global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = false //anti call 
 global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
